@@ -53,7 +53,7 @@ group :development do
   gem 'inch_by_inch'
   gem 'rubocop'
 
-  gem 'danger'
+  gem 'danger', '>= 5.3.1'
 end
 
 group :debugging do
